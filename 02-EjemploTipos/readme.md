@@ -7,4 +7,4 @@ No extraer valores de cin, usar valores literales (constantes).
 ¿Son esos realmente todos los tipos que vimos en clase?
 Justifique.
 
-Respuesta: No. En clases vimos solo los principales tipos de datos(Int, Char, Bool, Double) mientras que en el ejercicio se incluian más.
+Respuesta: Si, en la clase vimos todos los tipos de datos y sus operadores.
